@@ -28,8 +28,8 @@
 .body-dark {
 	--bg: #222831;
 	--bg-alt: #393E46;
-	--fg: #bdbddd;
-	--fg-alt: #cdcdff;
+	--fg: #fff;
+	--fg-alt: #fff;
 	--primary: #4E9F3D;
 	--primary-alt: #4E9F3D;
 	--primary-light: #222831;

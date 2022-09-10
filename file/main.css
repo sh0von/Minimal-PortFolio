@@ -36,12 +36,12 @@ body[data-theme="dark"] {
 
 .body-dark {
 	--bg: #191A19;
-	--bg-alt: #2C3333;
+	--bg-alt: #171717;
 	--fg: #fff;
 	--fg-alt: #fff;
 	--primary: #4E9F3D;
 	--primary-alt: #4E9F3D;
-	--primary-light: #2C3333;
+	--primary-light: #171717;
 	--container-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
 		rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
 }

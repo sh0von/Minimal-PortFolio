@@ -41,7 +41,7 @@ body[data-theme="dark"] {
 	--fg-alt: #fff;
 	--primary: #4E9F3D;
 	--primary-alt: #4E9F3D;
-	--primary-light: #222831;
+	--primary-light: #2C3333;
 	--container-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
 		rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
 }

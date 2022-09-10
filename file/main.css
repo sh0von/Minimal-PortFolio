@@ -35,8 +35,8 @@ body[data-theme="dark"] {
 
 
 .body-dark {
-	--bg: #2C3333;
-	--bg-alt: #3c4949;
+	--bg: #191A19;
+	--bg-alt: #2C3333;
 	--fg: #fff;
 	--fg-alt: #fff;
 	--primary: #4E9F3D;

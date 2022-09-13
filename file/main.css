@@ -12,14 +12,7 @@
 /* ================
 	 1. variables
    ================ */
-body {
-  --logo: url(file/svn.png) no-repeat;
 
-}
-
-body[data-theme="dark"] {
-  --logo: url(file/svn-light.png) no-repeat;
-}
 
 
 .body-light {
